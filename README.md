@@ -1,6 +1,6 @@
 # My-Portfolio
 用于展示项目的成果
-## long-distance-people-recognition
+## 1. long-distance-people-recognition
 ### People recognition with confirmation:
 
 ![image](https://github.com/pandongwei/long-distance-people-recognition/blob/master/output/output1.gif)
@@ -15,3 +15,7 @@ Transfer the recognition result after the confirmation part and cancel the face 
 After combining kalman filter people tracking part is robuster than before.
 
 ![image](https://github.com/pandongwei/long-distance-people-recognition/blob/master/output/output3.gif) 
+
+## 2.  Image-based Environment Classification for Small Electro
+
+TODO
