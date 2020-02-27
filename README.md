@@ -1,6 +1,7 @@
 # My-Portfolio
 用于展示项目的成果
 ## 1. Long-distance Person Recognition
+[Code](https://github.com/pandongwei/long-distance-people-recognition)
 ### People recognition with confirmation:
 
 ![image](https://github.com/pandongwei/long-distance-people-recognition/blob/master/output/output1.gif)
