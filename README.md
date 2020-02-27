@@ -21,7 +21,8 @@ After combining kalman filter people tracking part is robuster than before.
 
 Algorithm test in Raspberry pi 3B:
 
-[![road_classification.gif](https://s4.gifyu.com/images/road_classification.gif)](https://gifyu.com/image/71H7)
+![image](https://github.com/pandongwei/My-Portfolio/blob/master/demo/road_classification.gif)
+
 
 ## 3. Webcam Inference of 3D Person Reconstruction
 
