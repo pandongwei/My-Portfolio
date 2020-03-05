@@ -26,6 +26,10 @@ Algorithm test in Raspberry pi 3B:
 
 ## 3. Webcam Inference of 3D Person Reconstruction
 
+A webcam inference of 3D person pose and shape estimation.
+
+[Code](https://github.com/pandongwei/VIBE)
+
 The code is borrowed and adapted from: 
 [VIBE](https://github.com/mkocabas/VIBE)
 
